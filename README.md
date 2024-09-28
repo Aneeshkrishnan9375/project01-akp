@@ -1,2 +1,3 @@
 # project01-akp
-This is my first project
+This is my first GIT Repository
+Author- AKP
